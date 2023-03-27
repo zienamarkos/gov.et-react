@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gov.et-react/homepage/static/css/main.15a188cf.css",
-    "main.js": "/gov.et-react/homepage/static/js/main.8d3ba098.js",
-    "index.html": "/gov.et-react/homepage/index.html",
-    "main.15a188cf.css.map": "/gov.et-react/homepage/static/css/main.15a188cf.css.map",
-    "main.8d3ba098.js.map": "/gov.et-react/homepage/static/js/main.8d3ba098.js.map"
+    "main.css": "/static/css/main.15a188cf.css",
+    "main.js": "/static/js/main.8d3ba098.js",
+    "index.html": "/index.html",
+    "main.15a188cf.css.map": "/static/css/main.15a188cf.css.map",
+    "main.8d3ba098.js.map": "/static/js/main.8d3ba098.js.map"
   },
   "entrypoints": [
     "static/css/main.15a188cf.css",
